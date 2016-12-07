@@ -1,0 +1,16 @@
+{
+  "name": "listen_to_this",
+  "version": "1.0.0",
+  "description": "Creates a Spotify playlist from the top tracks submitted to Reddit's r/listentothis",
+  "main": "flow.js",
+  "dependencies": {
+    "@datafire/reddit-rss": "0.0.3",
+    "@datafire/spotify": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
