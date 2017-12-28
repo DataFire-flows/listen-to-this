@@ -7,5 +7,5 @@ npm install
 npm install -g datafire
 datafire authenticate spotify
 
-datafire run ./flow.js
+datafire run ./create-playlist.js
 ```

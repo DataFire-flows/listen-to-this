@@ -1,0 +1,4 @@
+tasks:
+  create_playlist:
+    action: ./create_playlist.js
+    schedule: rate(1 day)
