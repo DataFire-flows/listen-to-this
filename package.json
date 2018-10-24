@@ -2,7 +2,7 @@
   "name": "listen_to_this",
   "version": "1.0.0",
   "description": "Creates a Spotify playlist from the top tracks submitted to Reddit's r/listentothis",
-  "main": "flow.js",
+  "main": "create_playlist.js",
   "dependencies": {
     "@datafire/reddit_rss": "^2.0.3",
     "@datafire/spotify": "^3.0.0",
